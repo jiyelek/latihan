@@ -1,3 +1,3 @@
 #demo
 
-ini buat demo doank!
+ini buat demo doank..
